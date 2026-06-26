@@ -20,5 +20,20 @@ public class IntroductionToDatatypes {
         String str = "Tejas";
         String[] cars = {"BMW", "Audi", "Ford", "Mercedes"}; // String array
         int[] marks = {90, 92, 85, 79}; // Integer array
+
+
+        // Default values of Primitive
+        /*
+         boolean  ---> false
+         byte     ---> 0
+         short    ---> 0
+         int      ---> 0
+         long     ---> 0
+         float    ---> 0.0
+         double   ---> 0.0
+         char     ---> '\u0000'
+         */
+
+        // Defualt value of non-primitive are not fixed
     }
 }
