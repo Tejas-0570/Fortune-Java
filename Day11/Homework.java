@@ -46,7 +46,7 @@ class Homework{
         int len = input.length();
         boolean[] visited = new boolean[len];
         System.out.println("Duplicate character and there indices in '"+input+"' : ");
-        for(int i = 0; i < len; i++){
+        for(int i =  0; i < len; i++){
             if(visited[i]){
                 continue;
             }
